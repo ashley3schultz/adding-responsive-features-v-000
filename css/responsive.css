@@ -31,3 +31,8 @@ body {
 #social {
   top: 72px;
 }
+
+@media only screen and (max-width: 800px) {
+#narbar nac a {
+  font-size: 0.9em;
+}
