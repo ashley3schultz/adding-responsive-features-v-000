@@ -71,12 +71,12 @@
   }
 }
 
-  @media only screen and (max-width: 750px) {
+  @media only screen and (max-width: 700px) {
     #narbar nav a {
-      font-size: 0.9em;
+      display: none;
     }
 
-      #narbar nav a.menu-icon {
+    #narbar nav a.menu-icon {
       
     }
   }
