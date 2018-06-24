@@ -70,3 +70,13 @@
     column-count: 1;
   }
 }
+
+  @media only screen and (max-width: 750px) {
+    #narbar nav a {
+      font-size: 0.9em;
+    }
+
+      #narbar nav a.menu-icon {
+      
+    }
+  }
