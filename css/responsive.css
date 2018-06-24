@@ -32,7 +32,13 @@ body {
   top: 72px;
 }
 
+.col-3 p{
+  
+}
+}
+
 @media only screen and (max-width: 800px) {
 #narbar nac a {
   font-size: 0.9em;
 }
+
